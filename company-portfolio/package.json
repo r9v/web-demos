@@ -1,0 +1,29 @@
+{
+  "name": "company-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "My Gatsby Site",
+  "author": "r9v",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "dev": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.8.0",
+    "@emotion/styled": "^11.8.0",
+    "emotion-normalize": "^11.0.1",
+    "gatsby": "^4.7.2",
+    "gatsby-plugin-emotion": "^7.7.0",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-use-disclosure": "^4.0.0",
+    "styled-components": "^5.3.3"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "simple-modal-form",
+  "version": "1.0.0",
+  "private": true,
+  "description": "My Gatsby Site",
+  "author": "r9v",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "dev": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.8.0",
+    "@emotion/styled": "^11.8.0",
+    "axios": "^0.26.0",
+    "emotion-normalize": "^11.0.1",
+    "formik": "^2.2.9",
+    "gatsby": "^4.7.2",
+    "gatsby-plugin-emotion": "^7.7.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-toastify": "^8.2.0",
+    "react-use-disclosure": "^4.0.0",
+    "styled-components": "^5.3.3",
+    "yup": "^0.32.11"
+  }
+}

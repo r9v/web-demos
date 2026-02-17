@@ -1,6 +1,6 @@
 # web-demos
 
-A collection of small web demo projects done somewhere in 2019
+A collection of small web demo projects done somewhere in 2019.
 
 ## Projects
 
